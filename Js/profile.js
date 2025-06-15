@@ -1,9 +1,4 @@
 
-  window.addEventListener('DOMContentLoaded', function () {
-    const audio = document.getElementById('myAudio');
-    audio.play();
-  });
-
     const typewriter = document.getElementById("typewriter-text");
     const phrases = [
         "ENGLISH. ",
